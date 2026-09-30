@@ -1,0 +1,1 @@
+[https://github.com/hetsakariya0111-gi/CGxSU_Semester_1/blob/main/Semester_3/DBMS/02_Client_Server_Architecture.md]
